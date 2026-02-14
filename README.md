@@ -2,7 +2,7 @@
 
 Este repositorio contiene los archivos CAD necesarios para la construcción del GPR portátil desarrollado en el proyecto de Desminado Humanitario de la Universidad de los Andes.
 
-!\[Ensamble](doc/imgs/ensamble.png)
+!\[Ensamble](doc/ensamble.png)
 
 ## Proyecto Desminado Humanitario
 
