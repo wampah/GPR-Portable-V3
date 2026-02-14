@@ -2,6 +2,8 @@
 
 Este repositorio contiene los archivos CAD necesarios para la construcción del GPR portátil desarrollado en el proyecto de Desminado Humanitario de la Universidad de los Andes.
 
+!\[Ensamble](doc/imgs/ensamble.png)
+
 ## Proyecto Desminado Humanitario
 
 El GPR portátil es un radar de penetración terrestre diseñado para la detección de minas terrestres en exteriores. Este equipo es uno de los desarrollos principales del laboratorio de Desminado Humanitario, complementando las capacidades del GPR de laboratorio fijo y permitiendo la toma de muestras en campo abierto.
@@ -32,4 +34,5 @@ Este repositorio es parte del proyecto de Desminado Humanitario de la Universida
 Universidad de los Andes, Bogotá D.C, Colombia.
 
 ### Contacto:
-- Correo: [desminadohumanitario@uniandes.edu.co](mailto:desminadohumanitario@uniandes.edu.co)
+
+* Correo: [desminadohumanitario@uniandes.edu.co](mailto:desminadohumanitario@uniandes.edu.co)
