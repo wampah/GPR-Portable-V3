@@ -4,7 +4,7 @@ Este repositorio contiene los archivos CAD necesarios para la construcción del 
 
 
 
-!\[Ensamble](doc/ensamble.png)
+!\[Ensamble](/doc/ensamble.png)
 
 
 
